@@ -1,6 +1,10 @@
 # Project Viridian
 
-Viridianville, *(sometimes also referred to as "Project Viridian")* is a rewrite of *Legend of the Green Dragon* a browser-game where you find yourself in a new village, with dagerous forests beyond it. Adventure out, but becareful not to become ensnared by the wild things that hide in the shadows. This rewrite is being done in support of a specific gaming community.
+Viridianville, *(also referred to as "Project Viridian")* is a rewrite of *Legend of the Green Dragon* a browser-game where you find yourself in a new village, with dagerous forests beyond it. Adventure out, but becareful not to become ensnared by the wild things that hide in the shadows. This rewrite is being done in support of a specific gaming community.
+
+[![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 ## License
 
@@ -8,5 +12,6 @@ Viridianville, *(sometimes also referred to as "Project Viridian")* is a rewrite
 
 Project Viridian uses Laravel. The Laravel framework is open-sourced software licensed under [the MIT license](https://opensource.org/licenses/MIT). Original LoGD Game Design and Code: Copyright © 2002-2005, Eric Stevens & JT Traub, © 2006-2007, Dragonprime Development Team.
 
-Currently the development team has 3 members, and we're open to long-standing members of our community coming on board.
+Currently, the development team has 3 members, and we're open to long-standing members of our community coming on board.
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
