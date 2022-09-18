@@ -37,8 +37,9 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          jekyll_src: ../../
           build_only: true
-          target_path: ./_site
+          target_path: ../../_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
