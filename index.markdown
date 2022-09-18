@@ -4,9 +4,8 @@
 
 layout: splash
 header:
-    image: /assets/images/lukasz-szmigiel-2ShvY8Lf6l0-unsplash.jpg
-    caption: "Photo by <a href="https://unsplash.com/@szmigieldesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lukasz Szmigiel</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
-  
+  image: /assets/images/lukasz-szmigiel-2ShvY8Lf6l0-unsplash.jpg
+  caption: "Photo by <a href='https://unsplash.com/@szmigieldesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Lukasz Szmigiel</a> on <a href='https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
 ---
 
 # Project Viridian
