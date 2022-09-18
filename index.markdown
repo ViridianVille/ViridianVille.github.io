@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
+permalink: /
 header:
-  image: /assets/images/lukasz-szmigiel-2ShvY8Lf6l0-unsplash.jpg
+  overlay_image: /assets/images/lukasz-szmigiel-2ShvY8Lf6l0-unsplash.jpg 
+  overlay_filter: linear-gradient(rgba(255, 255, 102, 0.5), rgba(0, 102, 51, 0.5))
   caption: "Photo by <a href='https://unsplash.com/@szmigieldesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Lukasz Szmigiel</a> on <a href='https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
 ---
-
-# Project Viridian
 
 Viridianville, _(also referred to as "Project Viridian")_ is a rewrite of _Legend of the Green Dragon_ a browser-game where you find yourself in a new village, with dagerous forests beyond it. Adventure out, but becareful not to become ensnared by the wild things that hide in the shadows. This rewrite is being done in support of a specific gaming community.
 
