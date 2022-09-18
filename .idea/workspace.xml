@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32482065-f290-41ec-b926-d406e6a40877" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2022-09-18-What-is-Project-Viridian.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dab_dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/katbio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tifabio.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bio-photo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,8 @@
       <workItem from="1663454447674" duration="781000" />
       <workItem from="1663506509974" duration="1757000" />
       <workItem from="1663510486220" duration="945000" />
-      <workItem from="1663513713228" duration="938000" />
+      <workItem from="1663513713228" duration="1134000" />
+      <workItem from="1663532377499" duration="1600000" />
     </task>
     <servers />
   </component>
