@@ -1,0 +1,39 @@
+# /_data/authors.yml
+
+Tifa Zabat:
+  name        : "Tifa Zabat"
+  bio         : "Operational Support Director for the Project Viridian team"
+  avatar      : "/assets/images/tifabio.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tifa.zabat@katcodes.dev"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sleepyhuskygirl"
+
+Kat Knight:
+  name        : "Kat Knight"
+  bio         : "Lead Developer of Project Viridian"
+  avatar      : "/assets/images/katbio.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kat.knight@katcodes.dev"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/WingedDevi"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/KatrinaAS"
+
+Amelia:
+  name        : "Amelia Cottontail"
+  bio         : "Senior Developer on Project Viridian"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:amelia@katcodes.dev"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/CottontailDevelopment"

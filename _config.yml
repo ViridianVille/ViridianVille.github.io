@@ -23,7 +23,6 @@ email: kat@katcodes.dev
 description: >- # this means to ignore newlines until "baseurl:"
   An upcoming LoGD Rewrite.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ViridianVille
 show_downloads: false
 
@@ -64,7 +63,18 @@ defaults:
       type: pages
     values:
       layout: single
+      author_profile: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 
 
@@ -88,7 +98,7 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 author:
-  name: "Tifa Zabat"
-  avatar: "/assets/images/bio-photo.png"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  name: "The Project Viridian Team"
+  avatar: "/assets/images/dab_dragon.png"
+  bio: "We're **amazing** people."
+  location: "Writing Code on the Internet"
