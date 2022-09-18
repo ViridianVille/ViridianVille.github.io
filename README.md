@@ -12,6 +12,4 @@ Viridianville, *(also referred to as "Project Viridian")* is a rewrite of *Legen
 
 Project Viridian uses Laravel. The Laravel framework is open-sourced software licensed under [the MIT license](https://opensource.org/licenses/MIT). Original LoGD Game Design and Code: Copyright © 2002-2005, Eric Stevens & JT Traub, © 2006-2007, Dragonprime Development Team.
 
-Currently, the development team has 3 members, and we're open to long-standing members of our community coming on board.
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+Currently, the development team has 4 members, and we're open to long-standing members of our community coming on board.
