@@ -89,6 +89,6 @@ defaults:
 #   - vendor/ruby/
 author:
   name: "Tifa Zabat"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.png"
   bio: "I am an **amazing** person."
   location: "Somewhere"
