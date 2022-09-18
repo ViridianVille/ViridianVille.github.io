@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
 # Project Viridian
@@ -18,6 +18,4 @@ Viridianville, _(also referred to as "Project Viridian")_ is a rewrite of _Legen
 
 Project Viridian uses Laravel. The Laravel framework is open-sourced software licensed under [the MIT license](https://opensource.org/licenses/MIT). Original LoGD Game Design and Code: Copyright © 2002-2005, Eric Stevens & JT Traub, © 2006-2007, Dragonprime Development Team.
 
-Currently, the development team has 3 members, and we're open to long-standing members of our community coming on board.
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+Currently, the development team has 4 members, and we're open to long-standing members of our community coming on board.
