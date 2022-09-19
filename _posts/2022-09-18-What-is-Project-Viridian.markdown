@@ -2,7 +2,7 @@
 layout: single
 title: "What is Project Viridian?"
 date: 2022-09-18 21:21:21 +0100
-categories: project viridian, project update, documentation
+categories: project_viridian project_update documentation
 author: Tifa Zabat
 ---
 ## What?
