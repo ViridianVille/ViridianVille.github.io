@@ -3,7 +3,7 @@
 Tifa Zabat:
   name        : "Tifa Zabat"
   bio         : "Operational Support Director for the Project Viridian team"
-  avatar      : "/assets/images/tifabio.png"
+  avatar      : "/assets/images/Tifaz_Kemono_Icon.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
