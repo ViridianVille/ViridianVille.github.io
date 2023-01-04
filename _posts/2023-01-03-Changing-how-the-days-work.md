@@ -7,9 +7,9 @@ author: Tifa Zabat
 ---
 We're changing how the day works. Seriously. We're changing it.
 
-## From 4 to 1
+## From 6 to 1
 
-In the current *Legend of the Green Dragon* code, there are 4 game-days in 1 real-day, with 1 game-day being 6 hours long. This means that some of the descriptions such as "PLAYER did ACTION in 20 days!" make it sound a lot longer than it actually is. We're changing this to 1 game-day in 1 real-day, with 1 game-day being 24 hours long. This means that the descriptions will be more accurate, and it will be easier to keep track of how long things have been happening for. It will also improve roleplaying, as rather than having characters saying "Good Morning" at 9pm in the game, they'll be saying it at more appropriate in-game times.
+In the current *Legend of the Green Dragon* code, there are 6 game-days in 1 real-day, with 1 game-day being 4 hours long. This means that some of the descriptions such as "PLAYER did ACTION in 28 days!" make it sound a lot longer than it actually is. We're changing this to 1 game-day in 1 real-day, with 1 game-day being 24 hours long. This means that the descriptions will be more accurate, and it will be easier to keep track of how long things have been happening for. It will also improve roleplaying, as rather than having characters saying "Good Morning" at 9pm in the game, they'll be saying it at more appropriate in-game times.
 
 ## Agreeing on a standard
 
@@ -21,7 +21,7 @@ The game will be set in accordance with Zulu Time, which matches UTC and GMT 0. 
 
 ## What does this mean for me?
 
-We know that users will often wait for a new game day to revive if they've been defeated in battle or in the forest, to make up for this, we're going to change a few of the current 'daily' actions to be every 6 hours at 00:00Z, 06:00Z, 12:00Z, and 18:00Z. This means that you will still be able to revive every 6 real-time hours. Some of the 'daily' actions, will be kept as daily actions, in effect slowing to every 24 hours, this will apply to actions such as the Lottery Draws.
+We know that users will often wait for a new game day to revive if they've been defeated in battle or in the forest, to make up for this, we're going to change a few of the current 'daily' actions to be every 4 hours at 00:00Z, 04:00Z, 08:00Z, 12:00Z, 16:00Z, and 20:00Z. This means that you will still be able to revive every 4 real-time hours. Some of the 'daily' actions, will be kept as daily actions, in effect slowing to every 24 hours, this will apply to actions such as the Lottery Draws.
 
 ## Making Game Time clearer
 
